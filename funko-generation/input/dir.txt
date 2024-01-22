@@ -1,0 +1,2 @@
+# Auto-generated from directory scaffolding
+## This directory is for any input files
