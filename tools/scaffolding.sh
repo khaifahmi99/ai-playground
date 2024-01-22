@@ -13,6 +13,8 @@ mkdir -p "$folder_name/input"
 mkdir -p "$folder_name/output"
 mkdir -p "$folder_name/docs/images"
 
+echo -e '### PROJECT NAME' > "$folder_name/README.md"
+
 echo '{ "cells": [], "metadata": {}, "nbformat": 4, "nbformat_minor": 2 }' > "$folder_name/main.ipynb"
 
 GENERATED_CONTENT="# Auto-generated from directory scaffolding"
