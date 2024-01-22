@@ -1,0 +1,3 @@
+# Auto-generated from directory scaffolding
+## This directory is for input files
+## This directory is for images needed for the docs
